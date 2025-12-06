@@ -32,3 +32,4 @@ This Data set refered is from kaggle.
 
 **Screenshot link:**
 https://github.com/meet2gitanjali/Dummy-Super-Market-Data/blob/main/super%20store%20data%20screenshot.png
+<img width="1237" height="705" alt="super store data screenshot" src="https://github.com/user-attachments/assets/d24e317b-4c8c-41d3-93cc-bc11bfea6211" />
