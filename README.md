@@ -1,4 +1,4 @@
-# Dummy-Super-Market-Data
+# Dummy-Super-Store-Data
 **Power BI Dashboard - Superstore Data Analysis**
 This repository contains a Power BI dashboard project that analyzes the Superstore dataset sourced from Kaggle. The dataset provides detailed information about orders, customers, products, and financial transactions across different regions.
 
